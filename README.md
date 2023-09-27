@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 
-# <h1 align="center">WEATHER WORLD</h1>
+<h1 align="center"><i>WEATHER WORLD</i></h1>
 
 
 <!-- TABLE OF CONTENTS -->
