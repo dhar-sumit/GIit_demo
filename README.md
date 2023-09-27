@@ -1,6 +1,7 @@
+<a name="readme-top"></a>
+
 # Weather_World
 
-<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -31,10 +32,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Weather World is an advanced web application that provides all weather related information
-An advanced weather application that provides all weather related information at one place, providing tips and warnings upon violation.
+Weather World is an advanced web application that provides all weather related information in real-time with 97.8% accuracy rate.
 
-Here's why:
+Here's why :
 * An advanced weather application that provides all weather related information at one place.
 * It notifies the user with useful tips and warnings upon violation.
 * It is a user-friendly platform that automatically fetch user's current location, using their IP addresses and geo-locations.
@@ -109,12 +109,13 @@ The website will automatically track the user's location using the IP addresses.
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+
+Don't forget to give the project a star!!!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature`)
+3. Commit your Changes (`git commit -m 'Added some amazing feature'`)
+4. Push to the Branch (`git push origin feature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-This website is distributed under the MIT License. 
+This website is distributed under the **MIT License**. 
 See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,9 +137,9 @@ See `LICENSE.txt` for more information.
 
 Sumit Dhar - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/dhar-sumit/Weather_World][Project - link]
+Project Link: [https://github.com/dhar-sumit/Weather_World][Project-link]
 
-Website Link: [Weather World][Weather World - link]
+Website Link: [Weather World][Weather-World-link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,5 +152,5 @@ Website Link: [Weather World][Weather World - link]
 [Bootstrap-url]: https://getbootstrap.com
 [WeatherAPI.com]: https://t.ly/uywlq
 [WeatherAPI-url]: https://openweathermap.org/
-[Project - link]: [https://github.com/dhar-sumit/Weather_World]
-[Weather World - link]: [https://github.com/dhar-sumit/Weather_World]
+[Project-link]: [https://github.com/dhar-sumit/Weather_World]
+[Weather-World-link]: [https://github.com/dhar-sumit/Weather_World]
