@@ -1,6 +1,8 @@
 <a name="readme-top"></a>
 
-# Weather_World
+
+<h1 align="center">GitHub Profile Trophy</h1>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,7 +30,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 👋 👋
 
 Weather World is an advanced web application that provides all weather related information in real-time with 97.8% accuracy rate.
 
@@ -63,13 +65,13 @@ This amazing project is designed by using advanced :
 To start with, you will need an IDE (ex. VS-Code ) and set up a folder where you will keep all the files and sub-folders.
 Make sure to open the terminal with correct directory.
 
-### Prerequisites
+### Prerequisites 🤯 🤯
 
 * Advanced knowledge - Html, Css, JavaScript.
 * Intermediate knowledge - Bootstrap.
 * How to handle geo-API and fetch data.
 
-### Installation
+### Installation 👨‍💻 💽
 
 1. Get a free API Key at [OpenWeatherMap - Weather API][WeatherAPI-url]
 
@@ -87,7 +89,7 @@ Make sure to open the terminal with correct directory.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage 😄 😄
 
 The website will automatically track the user's location using the IP addresses. Search using city name on the search bar, it will automatically show suggestion, if there exists such city name.
 
@@ -98,7 +100,7 @@ The website will automatically track the user's location using the IP addresses.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing 🥳 🥳
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -116,7 +118,7 @@ Don't forget to give the project a star!!!
 
 
 <!-- LICENSE -->
-## License
+## License 😎 😎
 
 This website is distributed under the **MIT License**. 
 See `LICENSE.txt` for more information.
@@ -125,7 +127,7 @@ See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 🤝 🤝
 
 Sumit Dhar - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
