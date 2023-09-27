@@ -64,6 +64,8 @@ This amazing project is designed by using advanced :
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+Get a free API Key at [OpenWeatherMap - Weather API](WeatherAPI-url)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
