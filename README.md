@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
-
 # Weather_World
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,8 +24,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
