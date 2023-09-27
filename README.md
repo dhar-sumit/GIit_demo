@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 # Weather_World
 
 <!-- TABLE OF CONTENTS -->
@@ -25,6 +26,7 @@
   </ol>
 </details>
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -43,7 +45,6 @@ Check this amazing website on - ....
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- BUILT WITH -->
 ### Built With 👷🛠️
 
@@ -54,7 +55,6 @@ This amazing project is designed by using advanced :
 * [![WeatherAPI][WeatherAPI.com]][WeatherAPI-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -86,7 +86,6 @@ Make sure to open the terminal with correct directory.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -96,7 +95,6 @@ The website will automatically track the user's location using the IP addresses.
 * User can toggle between dark mode and light mode and can use any device any time to fetch weather information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -117,7 +115,6 @@ Don't forget to give the project a star!!!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -125,7 +122,6 @@ This website is distributed under the **MIT License**.
 See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -138,7 +134,6 @@ Project Link: [https://github.com/dhar-sumit/Weather_World][Project-link]
 Website Link: [Weather World][Weather-World-link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
