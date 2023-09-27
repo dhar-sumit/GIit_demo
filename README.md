@@ -68,7 +68,7 @@ This amazing project is designed by using advanced :
 <!-- MARKDOWN LINKS & IMAGES -->
 [Html_Css_JavaScript.com]: https://t.ly/gKynb
 [Html_Css_JavaScript-url]: https://www.w3schools.com/html
-[Bootstrap.com]: https://t.ly/pIauM
+[Bootstrap.com]: https://t.ly/RSZ7E
 [Bootstrap-url]: https://getbootstrap.com
 [WeatherAPI.com]: https://t.ly/uywlq
 [WeatherAPI-url]: https://openweathermap.org/
