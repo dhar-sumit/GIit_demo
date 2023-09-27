@@ -152,5 +152,5 @@ Website Link: [Weather World][Weather-World-link]
 [Bootstrap-url]: https://getbootstrap.com
 [WeatherAPI.com]: https://t.ly/uywlq
 [WeatherAPI-url]: https://openweathermap.org/
-[Project-link]: [https://github.com/dhar-sumit/Weather_World]
+[Project-link]: [https://github.com/dhar-sumit/Weather_World/]
 [Weather-World-link]: [https://github.com/dhar-sumit/Weather_World]
