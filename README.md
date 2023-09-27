@@ -70,5 +70,5 @@ This amazing project is designed by using advanced :
 [Html_Css_JavaScript-url]: https://www.w3schools.com/html
 [Bootstrap.com]: https://t.ly/RSZ7E
 [Bootstrap-url]: https://getbootstrap.com
-[WeatherAPI.com]: https://t.ly/uywlq
+[WeatherAPI.com]: https://shorturl.at/gtwzK
 [WeatherAPI-url]: https://openweathermap.org/
