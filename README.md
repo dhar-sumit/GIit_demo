@@ -12,5 +12,7 @@ Author - Sumit Dhar
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Html.com]: https://shorturl.at/bjmpF
+[Html.com]: https://t.ly/ifsd8
 [Html-url]: https://html.com
+
+https://t.ly/ifsd8
